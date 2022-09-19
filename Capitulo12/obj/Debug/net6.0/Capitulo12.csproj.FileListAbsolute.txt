@@ -1,0 +1,15 @@
+/home/harlit/Documentos/Aplicada1/TareaC/Capitulo12/obj/Debug/net6.0/Capitulo12.csproj.AssemblyReference.cache
+/home/harlit/Documentos/Aplicada1/TareaC/Capitulo12/obj/Debug/net6.0/Capitulo12.GeneratedMSBuildEditorConfig.editorconfig
+/home/harlit/Documentos/Aplicada1/TareaC/Capitulo12/obj/Debug/net6.0/Capitulo12.AssemblyInfoInputs.cache
+/home/harlit/Documentos/Aplicada1/TareaC/Capitulo12/obj/Debug/net6.0/Capitulo12.AssemblyInfo.cs
+/home/harlit/Documentos/Aplicada1/TareaC/Capitulo12/obj/Debug/net6.0/Capitulo12.csproj.CoreCompileInputs.cache
+/home/harlit/Documentos/Aplicada1/TareaC/Capitulo12/bin/Debug/net6.0/Capitulo12
+/home/harlit/Documentos/Aplicada1/TareaC/Capitulo12/bin/Debug/net6.0/Capitulo12.deps.json
+/home/harlit/Documentos/Aplicada1/TareaC/Capitulo12/bin/Debug/net6.0/Capitulo12.runtimeconfig.json
+/home/harlit/Documentos/Aplicada1/TareaC/Capitulo12/bin/Debug/net6.0/Capitulo12.dll
+/home/harlit/Documentos/Aplicada1/TareaC/Capitulo12/bin/Debug/net6.0/ref/Capitulo12.dll
+/home/harlit/Documentos/Aplicada1/TareaC/Capitulo12/bin/Debug/net6.0/Capitulo12.pdb
+/home/harlit/Documentos/Aplicada1/TareaC/Capitulo12/obj/Debug/net6.0/Capitulo12.dll
+/home/harlit/Documentos/Aplicada1/TareaC/Capitulo12/obj/Debug/net6.0/ref/Capitulo12.dll
+/home/harlit/Documentos/Aplicada1/TareaC/Capitulo12/obj/Debug/net6.0/Capitulo12.pdb
+/home/harlit/Documentos/Aplicada1/TareaC/Capitulo12/obj/Debug/net6.0/Capitulo12.genruntimeconfig.cache

@@ -1,0 +1,5 @@
+/home/harlit/Documentos/Aplicada1/TareaC/Capitulo9/obj/Debug/net6.0/Capitulo9.csproj.AssemblyReference.cache
+/home/harlit/Documentos/Aplicada1/TareaC/Capitulo9/obj/Debug/net6.0/Capitulo9.GeneratedMSBuildEditorConfig.editorconfig
+/home/harlit/Documentos/Aplicada1/TareaC/Capitulo9/obj/Debug/net6.0/Capitulo9.AssemblyInfoInputs.cache
+/home/harlit/Documentos/Aplicada1/TareaC/Capitulo9/obj/Debug/net6.0/Capitulo9.AssemblyInfo.cs
+/home/harlit/Documentos/Aplicada1/TareaC/Capitulo9/obj/Debug/net6.0/Capitulo9.csproj.CoreCompileInputs.cache
